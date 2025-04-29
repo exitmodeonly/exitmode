@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("pages/_app",{
+
+/***/ "./public/locales/en.json":
+/*!********************************!*\
+  !*** ./public/locales/en.json ***!
+  \********************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = JSON.parse('{"navbar":{"home":"Home","cheats":"Cheats","about":"About","contact":"Contact","login":"Login","register":"Register","logout":"Logout","discord":"Discord"},"cheats":{"description":"This wasn\'t made to impress Discord kids. it was mean to win fights. No fancy UI. No cracked junk. just raw locking power, clean AF. Built for streamers, grinders, and anyone tired of dying to worse players. Slots are capped. Ask twice, you\'re blocked.","buy":"Buy"},"features":{"title":"Features","Valve":"Valve","Valve_text":"Our cheat has its own bypass and has never been detected (11MONTS).","prices":"Affordable Prices","prices_text":"Our software\'s excellence is coupled with very reasonable pricing.","support":"24/7 Support","support_text":"Our support team is available 24/7. If you have any questions, don\'t hesitate to contact our support team. We are happy to answer your inquiries."},"cards":{"title":"Buy Cheats","description":"Description","day":"1 Day Subscription","week":"1 Week Subscription","month":"1 Month Subscription","price":"Price","buy":"Buy"}}');
+
+/***/ })
+
+});
