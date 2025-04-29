@@ -38,7 +38,7 @@ export function SiteHero() {
   ];
 
   const cheattags = [
-    { text: "Undetected" },
+    { text: "Undetected!" },
     { text: "Private Access" },
     { text: "Rank Booster" },
     { text: "Silent Aim" },
